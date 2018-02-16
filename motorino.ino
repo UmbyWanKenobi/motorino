@@ -19,7 +19,7 @@
 #define LEDPIN_TOGGLE      tbi (PORTB, PINB5);   // PINB  |= 1<<5;    //switch  LEDPIN  state (digital PIN 13)
 
 float i;
-float TEMPO = 28800;
+float TEMPO = 86164.09;
 float DEMOLTIPLICA = 99.5;
 float STEP = 200  ;
 float DIVISORE = 128 ;
